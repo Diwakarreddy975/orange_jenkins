@@ -5,7 +5,7 @@ import allure
 
 @pytest.fixture(autouse=True)
 def setup(request):
-    driver=webdriver.Edge()
+    driver=webdriver.Firefox()
     driver.maximize_window()
     driver.get("https://opensource-demo.orangehrmlive.com/web/index.php/auth/login")
     driver.implicitly_wait(10)
