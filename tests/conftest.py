@@ -5,6 +5,9 @@ import allure
 
 @pytest.fixture(autouse=True)
 def setup(request):
+    firefox_options = Options()
+    firefox_options.add_argument("--headless")
+    driver = webdriver.Firefox(options=firefox_options)
     driver=webdriver.Firefox()
     driver.maximize_window()
     driver.get("https://opensource-demo.orangehrmlive.com/web/index.php/auth/login")
