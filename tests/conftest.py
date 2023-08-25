@@ -2,10 +2,16 @@ import pytest
 from selenium import webdriver
 from allure_commons.types import AttachmentType
 import allure
+from selenium.webdriver.firefox.options import Options
 
 @pytest.fixture(autouse=True)
 def setup(request):
-    driver=webdriver.Firefox()
+    firefox_options = Options()
+    firefox_options.headless = True
+
+    # Initialize the Firefox WebDriver with options
+    driver = webdriver.Firefox(options=firefox_options)
+
     driver.maximize_window()
     driver.get("https://opensource-demo.orangehrmlive.com/web/index.php/auth/login")
     driver.implicitly_wait(10)
