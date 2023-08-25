@@ -1,0 +1,16 @@
+2023-08-22 15:29:09,401 - INFO - user enterd username
+2023-08-22 15:29:09,432 - INFO - user enterd password
+2023-08-22 15:29:15,132 - INFO - user clicked on admin
+2023-08-22 15:29:16,423 - INFO - user clicked on add button
+2023-08-22 15:29:16,878 - INFO - user enterd password field
+2023-08-22 15:29:16,907 - INFO - user enterd confirm password field
+2023-08-22 15:29:16,923 - INFO - user enterd username field
+2023-08-22 15:29:17,415 - INFO - user selected enable option in status dropdown
+logformatter=logging.Formatter("%(asctime)s : %(levelname)s : %(name)s : %(message)s")2023-08-22 15:32:56,469 : INFO : testadd_user : user enterd username
+2023-08-22 15:32:56,517 : INFO : testadd_user : user enterd password
+2023-08-22 15:33:02,391 : INFO : testadd_user : user clicked on admin
+2023-08-22 15:33:03,989 : INFO : testadd_user : user clicked on add button
+2023-08-22 15:33:04,467 : INFO : testadd_user : user enterd password field
+2023-08-22 15:33:04,498 : INFO : testadd_user : user enterd confirm password field
+2023-08-22 15:33:04,514 : INFO : testadd_user : user enterd username field
+2023-08-22 15:33:05,007 : INFO : testadd_user : user selected enable option in status dropdown
