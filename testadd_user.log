@@ -1,0 +1,16 @@
+2023-08-25 13:47:10,550 : INFO : testadd_user : user enterd username
+2023-08-25 13:47:10,613 : INFO : testadd_user : user enterd password
+2023-08-25 13:47:17,474 : INFO : testadd_user : user clicked on admin
+2023-08-25 13:47:18,509 : INFO : testadd_user : user clicked on add button
+2023-08-25 13:47:18,929 : INFO : testadd_user : user enterd password field
+2023-08-25 13:47:18,976 : INFO : testadd_user : user enterd confirm password field
+2023-08-25 13:47:18,992 : INFO : testadd_user : user enterd username field
+2023-08-25 13:47:19,468 : INFO : testadd_user : user selected enable option in status dropdown
+2023-08-25 20:51:42,697 : INFO : testadd_user : user enterd username
+2023-08-25 20:51:42,728 : INFO : testadd_user : user enterd password
+2023-08-25 20:51:48,313 : INFO : testadd_user : user clicked on admin
+2023-08-25 20:51:49,329 : INFO : testadd_user : user clicked on add button
+2023-08-25 20:51:49,743 : INFO : testadd_user : user enterd password field
+2023-08-25 20:51:49,776 : INFO : testadd_user : user enterd confirm password field
+2023-08-25 20:51:49,806 : INFO : testadd_user : user enterd username field
+2023-08-25 20:51:50,281 : INFO : testadd_user : user selected enable option in status dropdown
