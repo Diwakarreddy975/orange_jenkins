@@ -11,7 +11,6 @@ def setup(request):
 
     # Initialize the Firefox WebDriver with options
     driver = webdriver.Firefox(options=firefox_options)
-
     driver.maximize_window()
     driver.get("https://opensource-demo.orangehrmlive.com/web/index.php/auth/login")
     driver.implicitly_wait(10)
