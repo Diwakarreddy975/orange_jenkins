@@ -83,3 +83,4 @@ class Test_Admin:
         admin.click_on_admin()
         admin.delete_a_user()
 
+

@@ -1,0 +1,8 @@
+[32mINFO    [0m testadd_user:test_admin.py:18 user enterd username
+[32mINFO    [0m testadd_user:test_admin.py:20 user enterd password
+[32mINFO    [0m testadd_user:test_admin.py:25 user clicked on admin
+[32mINFO    [0m testadd_user:test_admin.py:27 user clicked on add button
+[32mINFO    [0m testadd_user:test_admin.py:29 user enterd password field
+[32mINFO    [0m testadd_user:test_admin.py:31 user enterd confirm password field
+[32mINFO    [0m testadd_user:test_admin.py:35 user enterd username field
+[32mINFO    [0m testadd_user:test_admin.py:39 user selected enable option in status dropdown

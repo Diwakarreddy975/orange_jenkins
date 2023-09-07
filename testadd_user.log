@@ -14,3 +14,11 @@
 2023-08-25 20:51:49,776 : INFO : testadd_user : user enterd confirm password field
 2023-08-25 20:51:49,806 : INFO : testadd_user : user enterd username field
 2023-08-25 20:51:50,281 : INFO : testadd_user : user selected enable option in status dropdown
+2023-08-29 14:10:10,363 : INFO : testadd_user : user enterd username
+2023-08-29 14:10:10,387 : INFO : testadd_user : user enterd password
+2023-08-29 14:10:16,203 : INFO : testadd_user : user clicked on admin
+2023-08-29 14:10:17,408 : INFO : testadd_user : user clicked on add button
+2023-08-29 14:10:17,855 : INFO : testadd_user : user enterd password field
+2023-08-29 14:10:17,879 : INFO : testadd_user : user enterd confirm password field
+2023-08-29 14:10:17,896 : INFO : testadd_user : user enterd username field
+2023-08-29 14:10:18,362 : INFO : testadd_user : user selected enable option in status dropdown

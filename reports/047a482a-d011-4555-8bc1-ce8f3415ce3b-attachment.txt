@@ -1,0 +1,1 @@
+[32mINFO    [0m test_search_user_from_username_in_records_table:test_admin.py:52 user enterd admin in search field
